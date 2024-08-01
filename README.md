@@ -1,4 +1,4 @@
-# Hi there, I'm [Omar Safi] 👋
+# Hi there, I'm Omar Safi 👋
 
 Welcome to my GitHub profile! I'm a passionate engineering student from Tunisia currently specializing in backend and frontend development. I enjoy working on projects that involve complex problem-solving and integrating various technologies.
 
