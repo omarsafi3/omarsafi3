@@ -20,7 +20,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:safiomar.2003@gmail.com)
+- Email: [safiomar.2003@gmail.com](mailto:safiomar.2003@gmail.com)
   
 ## 🚀 Current Focus
 
