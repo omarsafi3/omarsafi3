@@ -5,9 +5,8 @@ Welcome to my GitHub profile! I'm a passionate engineering student from Tunisia 
 ## 🔧 Technologies & Tools
 
 - **Languages**: Java, Python, SQL, TypeScript
-- **Frameworks & Libraries**: Spring Boot, Angular, Discord.py
+- **Frameworks & Libraries**: Spring Boot, Angular, JEE
 - **Databases**: Oracle SQL, MySQL
-- **Tools**: Git, Docker, IntelliJ IDEA, VS Code
 
 
 Feel free to explore my repositories to see more of my work!
