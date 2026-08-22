@@ -35,20 +35,12 @@
 * Applied GPT-2 negative log-likelihood as an inference-time energy signal to guide candidate selection, achieving **40.17% ROUGE-L** and **10.83% BLEU-4**.
 * [🔗 View Repository](https://github.com/omarsafi3/Generative_models_and_diffusion_for_text)
 
-### 🏥 [Federated Medical Image Classification Pipeline](https://github.com/omarsafi3/xray_cv_reproduction)
-> **Python • TensorFlow • Flower • Computer Vision • Attention Mechanisms**
-* Engineered a privacy-preserving 4-client federated learning system for 4-class chest X-ray diagnosis.
-* Developed an **SE-ResNet50V2** architecture with squeeze-and-excitation attention, reaching **90.4% mean test accuracy** in centralized benchmarks.
-* Formulated an inverse validation-loss aggregation strategy that improved convergence speed by **44%** under non-IID label skew.
-* [🔗 View Repository](https://github.com/omarsafi3/xray_cv_reproduction)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omarsafi3&theme=tokyonight&hide_border=true" width="65%" />
-</p>
+### 🫁 [Federated Deep Learning for Chest X-Ray Classification](https://github.com/omarsafi3/Federated_Chest_XRay_Classification)
+> **Python • TensorFlow 2.15 • Flower • SE-ResNet50V2 • Non-IID Dirichlet Skew**
+* Designed a 4-client federated learning system for 4-class chest X-ray diagnosis with channel attention and multi-scale feature fusion.
+* Achieved **90.4% mean test accuracy** and **89.5% Macro-F1** across 3 seeds in centralized training on 1,705 held-out test images.
+* Formulated an inverse validation-loss aggregation strategy that achieved **90.0% accuracy** and **88.5% Macro-F1** under non-IID Dirichlet label skew ($\alpha=0.5$), outperforming standard FedAvg by **+0.6 percentage points**.
+* [🔗 View Repository](https://github.com/omarsafi3/Federated_Chest_XRay_Classification)
 
 ---
 
