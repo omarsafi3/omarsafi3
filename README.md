@@ -28,25 +28,26 @@
 
 ## 🔬 Featured Research & Engineering Projects
 
-### 🧠 [Discrete Text Diffusion & Energy-Guided Decoding](https://github.com/omarsafi3)
+### 🧠 [Generative Models & Discrete Diffusion for Text](https://github.com/omarsafi3/Generative_models_and_diffusion_for_text)
 > **Python • PyTorch • HuggingFace Transformers • DiffusionBERT • LLaDA**
 * Trained and evaluated transformer-based bidirectional discrete text diffusion models (~125M parameters).
 * Built a block-sequential decoder inspired by Multi-Block Diffusion, reducing denoising steps from 512 to 60 for a **1.54x inference speedup**.
 * Applied GPT-2 negative log-likelihood as an inference-time energy signal to guide candidate selection, achieving **40.17% ROUGE-L** and **10.83% BLEU-4**.
+* [🔗 View Repository](https://github.com/omarsafi3/Generative_models_and_diffusion_for_text)
 
-### 🏥 [Federated Medical Image Classification Pipeline](https://github.com/omarsafi3)
+### 🏥 [Federated Medical Image Classification Pipeline](https://github.com/omarsafi3/xray_cv_reproduction)
 > **Python • TensorFlow • Flower • Computer Vision • Attention Mechanisms**
 * Engineered a privacy-preserving 4-client federated learning system for 4-class chest X-ray diagnosis.
 * Developed an **SE-ResNet50V2** architecture with squeeze-and-excitation attention, reaching **90.4% mean test accuracy** in centralized benchmarks.
 * Formulated an inverse validation-loss aggregation strategy that improved convergence speed by **44%** under non-IID label skew.
+* [🔗 View Repository](https://github.com/omarsafi3/xray_cv_reproduction)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarsafi3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsafi3&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=omarsafi3&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
 ---
