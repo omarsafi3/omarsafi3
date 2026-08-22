@@ -6,50 +6,43 @@
   <a href="https://github.com/omarsafi3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-### 🎓 3rd Year Computer Science Engineering Student | AI Researcher & Systems Engineer
-> Passionate about **Discrete Text Diffusion, Federated Learning, Combinatorial Optimization (VRP), and Scalable Distributed Architectures**. Experienced in translating theoretical research papers into high-performance, production-ready implementations.
+### 🎓 Computer Science Engineering Student | AI Researcher & Software Engineer
+> Passionate about **Generative AI, Discrete Text Diffusion, Federated Learning, and Scalable Backend Architectures**. Skilled in taking theoretical research formulations from academic literature into robust, production-grade systems.
 
-- 🏆 **Academic Standing**: Ranked **2nd / 60** in Engineering at ISIMS (GPA: **16.36 / 20**), **1st in AI** (19.00 / 20).
-- 🔬 **Research Interests**: Energy-Guided Diffusion Models, Score-Based Generative Baselines (DDPM, VAE, RealNVP), Non-IID Federated Learning.
-- 🎯 **Leadership**: Chair, **IEEE ISIMS Computer Society** Student Branch Chapter (2025).
+- 🔬 **Research Focus**: Discrete Diffusion Models, Energy-Guided Sampling, Continuous Probabilistic Baselines (DDPM, VAE, RealNVP), and Privacy-Preserving Federated Learning.
+- 💻 **Engineering Interests**: Distributed Systems, Microservices Architecture, Full-Stack Web Development, and High-Performance APIs.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack & Skills
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Generative AI & Deep Learning** | `PyTorch` `TensorFlow` `Discrete Diffusion` `DDPM` `VAEs` `Normalizing Flows` `HuggingFace` |
-| **Distributed AI & Optimization** | `Flower (Federated Learning)` `jsprit (CVRPTW)` `OSRM Road Networks` `Graph Theory` |
-| **Backend & Distributed Systems** | `Java 17` `Spring Boot 3` `WebSocket (STOMP)` `Redis` `MongoDB Geospatial` `MySQL` `REST APIs` |
-| **Frontend & Mobile/GIS** | `Angular 17` `TypeScript` `Leaflet GIS` `Web Speech API` `TailwindCSS` `RxJS` |
-| **DevOps & Engineering** | `Docker` `Git / GitHub Actions` `Linux / Bash` `Nginx Reverse Proxy` `LaTeX` |
+| **Generative AI & Deep Learning** | `PyTorch` `TensorFlow` `Discrete Diffusion` `Transformers` `DDPM` `VAEs` `Normalizing Flows` |
+| **Distributed AI & Machine Learning** | `Flower (Federated Learning)` `Non-IID Partitioning` `Custom Aggregation Strategies` `Scikit-learn` |
+| **Backend & Distributed Systems** | `Java 17` `Spring Boot 3` `REST APIs` `WebSocket (STOMP)` `Redis` `MongoDB` `MySQL` |
+| **Frontend & UI Development** | `Angular 17` `TypeScript` `JavaScript` `RxJS` `TailwindCSS` `HTML5/CSS3` |
+| **DevOps & Tools** | `Docker` `Git / GitHub Actions` `Linux / Bash` `Nginx` `LaTeX` |
 
 ---
 
-## 🚀 Featured Flagship Projects
+## 🔬 Featured Research & Engineering Projects
 
-### 🚛 [Intelligent Urban Intervention & Routing System (VRP Solver)](https://github.com/omarsafi3/GarbageCollectorBackend)
-> **Spring Boot 3 • Angular 17 • jsprit • OSRM • MongoDB Geospatial • WebSocket STOMP • Leaflet**
-* Solves **Capacitated Vehicle Routing with Time Windows (CVRPTW)** and intermediate landfill multi-trip scheduling.
-* Implemented real-time **geodesic obstacle-avoidance detours** around traffic jams and flood blocks.
-* Built an **in-cab driver companion** with hands-free voice navigation (Web Speech API) and a public **citizen QR reporting portal**.
-* [🔗 Backend Repository](https://github.com/omarsafi3/GarbageCollectorBackend) &nbsp;|&nbsp; [🔗 Frontend Repository](https://github.com/omarsafi3/garbage-collector-frontend)
-
-### 🔬 [Energy-Guided Blockwise Diffusion Decoding](https://github.com/omarsafi3)
-> **Python • PyTorch • Transformers • DiffusionBERT • LLaDA**
-* Implemented transformer-based discrete text diffusion architectures (~125M parameters).
-* Developed a 2-token blockwise sequential decoder achieving a **1.54x inference speedup** (398 vs 614 ms/sample).
-* Applied inference-time energy guidance with GPT-2 NLL, boosting benchmark **ROUGE-L to 40.17%**.
+### 🧠 [Discrete Text Diffusion & Energy-Guided Decoding](https://github.com/omarsafi3)
+> **Python • PyTorch • HuggingFace Transformers • DiffusionBERT • LLaDA**
+* Trained and evaluated transformer-based bidirectional discrete text diffusion models (~125M parameters).
+* Built a block-sequential decoder inspired by Multi-Block Diffusion, reducing denoising steps from 512 to 60 for a **1.54x inference speedup**.
+* Applied GPT-2 negative log-likelihood as an inference-time energy signal to guide candidate selection, achieving **40.17% ROUGE-L** and **10.83% BLEU-4**.
 
 ### 🏥 [Federated Medical Image Classification Pipeline](https://github.com/omarsafi3)
-> **TensorFlow • Flower • Non-IID Aggregation • Computer Vision**
-* Designed a 4-client federated deep learning pipeline for chest X-ray diagnosis with **SE-ResNet50V2**.
-* Developed a custom inverse validation-loss aggregation strategy achieving **90.0% accuracy** under non-IID label skew.
+> **Python • TensorFlow • Flower • Computer Vision • Attention Mechanisms**
+* Engineered a privacy-preserving 4-client federated learning system for 4-class chest X-ray diagnosis.
+* Developed an **SE-ResNet50V2** architecture with squeeze-and-excitation attention, reaching **90.4% mean test accuracy** in centralized benchmarks.
+* Formulated an inverse validation-loss aggregation strategy that improved convergence speed by **44%** under non-IID label skew.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omarsafi3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -58,7 +51,7 @@
 
 ---
 
-## 📬 Get in Touch
+## 📬 Connect with Me
 * 💼 **LinkedIn**: [linkedin.com/in/omar-safi-583506284](https://www.linkedin.com/in/omar-safi-583506284/)
 * 📧 **Email**: [omarsafi.contact@gmail.com](mailto:omarsafi.contact@gmail.com)
 * 📍 **Location**: Sfax, Tunisia
